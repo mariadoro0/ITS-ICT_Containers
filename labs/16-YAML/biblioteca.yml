@@ -1,0 +1,38 @@
+---
+Library:
+  name: Biblioteca di Sassari
+  street: Piazza Tola
+  street number: 1
+  sections:
+    - name: bambini
+      section arguments:
+        - letteratura
+        - bambini
+      books:
+        - name: Mulan
+          author: Disney
+          publication date: 2022
+          cover image: ==aa
+          excerpt: >
+            L'Imperatore della Cina chiede a ogni uomo di entrare nell'esercito per
+            difendere il paese dagli invasori e Mulan, figlia di un onorato
+            guerriero, prende il posto del padre, anziano e debole. La scoperta
+            del suo segreto si rivela, però, disonorevole per l'intera armata
+            cinese.
+    - name: narrativa
+      section arguments:
+        - narrativa
+        - letteratura
+        - classici
+      books:
+        - name: Tutto è qui per te
+          author: Fabio Volo
+          publication date: 14/11/2023
+          cover image: ==aa
+          excerpt: >
+            libro sulla linea d'ombra che ciascuno di noi si trova a superare alle
+            età più differenti e inaspettate. Sulla voglia di mettersi in gioco
+            davvero, di predisporsi ad accogliere l'amore anziché rincorrerlo
+            ovunque. Sul valore che può avere anche la solitudine.
+
+
